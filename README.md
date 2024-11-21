@@ -1,6 +1,6 @@
 # Tipalti-business-software
 
-
+<img src="https://github.com/Busisoftware/Tipalti-business-software/blob/main/tipalti.jpg"/>
 
 Tipalti automates critical financial processes to drive efficiency, including accounts payable, mass payments, procurement, and expenses, all on one global finance automation platform that grows with the organization, automating, de-risking and simplifying finance.
 
